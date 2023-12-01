@@ -1,7 +1,10 @@
 # SewerMom
 
-# 개발 엔진
+하수도에 갇힌 아이가 사악한 괴물로부터 도망치는 공포 게임입니다. 손전등 빛밖에 없는 환경에서 괴물의 소리에 귀를 기울여 잡히지 않고 탈출해야 합니다.  
 
-![엔진](https://images.contentstack.io/v3/assets/blt08c1239a7bff8ff5/bltdff1a2920dd347a5/63f5068a97790d11728d0a6d/U_Logo_Small_black.svg)
+게임 제목 : Sewer Mom  
+게임 장르 : 호러, 퍼즐  
+개발 기간 : 2023.05 ~ 2023.06  
+개발 엔진 : Unity Engine  
+플레이 영상 : https://youtu.be/Q9zSz7pk3g0
 
-# 기타
